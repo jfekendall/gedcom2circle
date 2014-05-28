@@ -51,4 +51,3 @@ Binomial.php
 ///////////
 
 Email: jfekendall@gmail.com
-Phone: 419.203.8450
